@@ -540,7 +540,7 @@ header{
         border-radius: 00.5rem;
         color: var(--bg-color);
     }
-    .navbar .active{
+    .navbar.active{
         top: 100%;
     }
     .home-text h1{
